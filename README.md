@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alikhan Pashaevi</h1>
 <h3 align="center">A passionate fullstack developer from Georgia</h3>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alikpashaevi&" alt="alikpashaevi" /></p>
-
-- 🌱 I’m currently learning **mongodb with next.js**
+- 🌱 I’m currently learning **Java with Spring boot**
 
 - 👯 I’m looking to collaborate on **web development projects**
 
